@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.warning{
+    margin: 10px 0px;
+    padding: 12px;
+    color: #004085;
+    background-color: #cce5ff;
+    border: 1px solid #b8daff;
+}
+
+.warning code{
+    color: #004085!important;
+    background-color: #b1d5fc!important;
+}
+
+main {
+    text-align: justify;
+    font-family: roboto;
+}
+
+main img{
+    display: block;
+    margin: 0 auto;
+}
+
+main img[alt*="right"] {
+    float: right;
+    margin-left: 8px;
+}
+
+ main img[alt*="left"] {
+    float: left;
+    margin-right: 8px;
+}
+
+@media print {
+    .sidebar{
+        display: none;
+    }
+
+    .content{
+        left: 5px;
+    }
+}
