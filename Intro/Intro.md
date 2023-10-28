@@ -1,15 +1,15 @@
 # Inleiding
-Mijn brede scala aan vaardigheden en ervaringen omvat onder andere militaire dienst, medische kennis, IT-beveiliging, CNC-bewerking, 3D-ontwerp en nog veel meer. Mijn passie voor cyberbeveiliging en IT heeft me ertoe gebracht om mijn vaardigheden voortdurend te ontwikkelen en mijn doel is om in de komende tien jaar een cyberexpert bij Defensie te worden. Dit is een uitdaging die ik met volle toewijding aanga, en mijn stappenplan om dit te bereiken omvat onder andere het behalen van relevante certificeringen, het opdoen van praktijkervaring, het blijven netwerken en samenwerken met professionals in het veld, en het waarborgen van ethisch gedrag.
-
-Ik kijk er ook naar uit om na mijn graduaat een rol te vervullen als onderofficier in het domein van IT, netwerken en cyber bij het leger, waar ik discipline, toewijding en respect hoog in het vaandel draag.
-
-Met mijn passie voor leren en groeien, ben ik ervan overtuigd dat ik mijn doelen zal bereiken en een waardevolle bijdrage zal leveren aan de maatschappij. Ik ben altijd klaar voor nieuwe uitdagingen en kansen.
-
-Dank u voor uw interesse in mijn portfolio.
-
-Met vriendelijke groet,
-
-Aaron Heimdall Ragnarson Froidmont
+>Mijn brede scala aan vaardigheden en ervaringen omvat onder andere militaire dienst, medische kennis, IT-beveiliging, CNC-bewerking, 3D-ontwerp en nog veel meer. Mijn passie voor cyberbeveiliging en IT heeft me ertoe gebracht om mijn vaardigheden voortdurend te ontwikkelen en mijn doel is om in de komende tien jaar een cyberexpert bij Defensie te worden. Dit is een uitdaging die ik met volle toewijding aanga, en mijn stappenplan om dit te bereiken omvat onder andere het behalen van relevante certificeringen, het opdoen van praktijkervaring, >het blijven netwerken en samenwerken met professionals in het veld, en het waarborgen van ethisch gedrag.
+>
+>Ik kijk er ook naar uit om na mijn graduaat een rol te vervullen als onderofficier in het domein van IT, netwerken en cyber bij het leger, waar ik discipline, toewijding en respect hoog in het vaandel draag.
+>
+>Met mijn passie voor leren en groeien, ben ik ervan overtuigd dat ik mijn doelen zal bereiken en een waardevolle bijdrage zal leveren aan de maatschappij. Ik ben altijd klaar voor nieuwe uitdagingen en kansen.
+>
+>Dank u voor uw interesse in mijn portfolio.
+>
+>Met vriendelijke groet,
+>
+`Aaron Heimdall Ragnarson Froidmont`
 
 ***
 # persoonlijke info
@@ -100,7 +100,6 @@ Algemeen werker bij Evapco (07-2015 tot 08-2015)
 
 - Frans niveau B1
 ----
-[link naar eigen site](https://tryhackme.com/p/brokenleviathan )
-
+- [link naar eigen site](https://tryhackme.com/p/brokenleviathan )
 
 >Dit is een overzicht van wie ik ben, mijn achtergrond, en mijn interesses. Mijn toekomstige doelen omvatten het werken als een cyberexpert bij Defensie en het blijven ontwikkelen van mijn vaardigheden op het gebied van IT en cyberbeveiliging. Ik heb een duidelijk stappenplan voor de komende 10 jaar om deze doelen te bereiken. Ik ben vastbesloten om mijn ambities waar te maken en een impact te hebben in mijn gekozen carrièrepad.
