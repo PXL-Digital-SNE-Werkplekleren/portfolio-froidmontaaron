@@ -99,7 +99,7 @@ Algemeen werker bij Evapco (07-2015 tot 08-2015)
 
 - Frans niveau B1
 ----
-- [link naar eigen site](https://tryhackme.com/p/brokenleviathan )
+- [link naar tryhackme portfolio](https://tryhackme.com/p/brokenleviathan )
   
 
  ![tryhackme](https://tryhackme-badges.s3.amazonaws.com/brokenleviathan.png)
