@@ -1,7 +1,14 @@
 # Logboek werkplekleren
-<img src="https://myreadme.vercel.app/api/embed/froidmontaaron?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
+>
+>>
+>>>
+### Github Streaks
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=froidmontaaron&theme=dark" width="48%" >
+
+### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=froidmontaaron&layout=compact)
 
 
 ## Logboek WPL 1
