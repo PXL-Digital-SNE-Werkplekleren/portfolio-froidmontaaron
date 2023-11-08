@@ -1,5 +1,6 @@
 # Inleiding
->Mijn brede scala aan vaardigheden en ervaringen omvat onder andere militaire dienst, medische kennis, IT-beveiliging, CNC-bewerking, 3D-ontwerp en nog veel meer. Mijn passie voor cyberbeveiliging en IT heeft me ertoe gebracht om mijn vaardigheden voortdurend te ontwikkelen en mijn doel is om in de komende tien jaar een cyberexpert bij Defensie te worden. Dit is een uitdaging die ik met volle toewijding aanga, en mijn stappenplan om dit te bereiken omvat onder andere het behalen van relevante certificeringen, het opdoen van praktijkervaring, >het blijven netwerken en samenwerken met professionals in het veld, en het waarborgen van ethisch gedrag.
+>Mijn brede scala aan vaardigheden en ervaringen omvat onder andere militaire dienst, medische kennis, IT-beveiliging, CNC-bewerking, 3D-ontwerp en nog veel meer. Mijn passie voor cyberbeveiliging en IT heeft me ertoe gebracht om mijn vaardigheden voortdurend te ontwikkelen en mijn doel is om in de komende tien jaar een cyberexpert bij Defensie te worden. Dit is een uitdaging die ik met volle toewijding aanga, en mijn stappenplan om dit te bereiken omvat onder andere het behalen van relevante certificeringen, het opdoen van praktijkervaring,
+>het blijven netwerken en samenwerken met professionals in het veld, en het waarborgen van ethisch gedrag.
 >
 >Ik kijk er ook naar uit om na mijn graduaat een rol te vervullen als onderofficier in het domein van IT, netwerken en cyber bij het leger, waar ik discipline, toewijding en respect hoog in het vaandel draag.
 >
