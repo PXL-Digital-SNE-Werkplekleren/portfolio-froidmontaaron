@@ -106,7 +106,7 @@ Algemeen werker bij Evapco (07-2015 tot 08-2015)
  ![tryhackme](https://tryhackme-badges.s3.amazonaws.com/brokenleviathan.png)
 
 #### Github Stats
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=froidmontaaron&count_private=true&show_icons=true)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=froidmontaaron&count_private=true&show_icons=true&hide=contribs)
 
 
 
