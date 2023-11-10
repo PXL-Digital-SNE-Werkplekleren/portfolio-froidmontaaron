@@ -181,12 +181,12 @@ Feedback gemaakte taken</td>
    <tr>
     <td>Week 14</td>
     <td>10 januari 2024</td>
-    <td>Content</td>
+    <td>Afwerken portfolio</td>
   </tr>
   <tr>
     <td>Week 14</td>
     <td>12 januari 2024</td>
-    <td>Content</td>
+    <td>Afwerken portfolio</td>
   </tr>
 </table>
 
