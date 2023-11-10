@@ -38,6 +38,56 @@
   
 </div>
 
+---
+
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between;">
+
+
+  <div style="flex: 1; padding: 20px;">
+    <img src="https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/3c1a914b-986d-4e74-a5cb-97472d5d0aed" alt="Afbeelding_2" style="width: 100%; height: auto;">
+  </div>
+
+</div>
+
+<div style="flex: 1; padding: 20px;">
+  
+ ## Wat drijft jou?
+
+Mijn passies zijn sport en leren hacken. Ik ben hier goed in en wil deze vaardigheden verder ontwikkelen in de toekomst en ook omdat ik van mening ben dat een gezond lichaam en dicipline zorgt dat ik er beter van wordt .
+
+</div>
+
+<div style="flex: 1; padding: 20px;">
+  
+  ## Waar haal je energie uit?
+
+Ik krijg energie van het delen van mijn passies en doelen met anderen. ook door Respect en nieuwe inzichten kan ik beter worden deze zijn voor mij belangrijk.
+
+</div>
+
+<div style="flex: 1; padding: 20px;">
+  
+  ## Hoe zie je samenwerking?
+
+Ik sta open voor discussies en waardeer het als anderen een eigen visie hebben. Dialoog en empathie zijn voor mij essentieel in het begrijpen van anderen en samenwerken aan een betere toepassing van onze werk ethiek.
+  
+</div>
+
+<div style="flex: 1; padding: 20px;">
+  
+ ## Wat betekent passie voor jou?
+
+Voor mij is passie de drijvende kracht die nieuwsgierigheid en doorzettings vermogen aanwakkert, verandering en innovatie stimuleert, en anderen inspireert. Het is een kenmerk van een uitstekende professional die anderen met kennis van zaken leidt.
+
+</div>
+
+<div style="flex: 1; padding: 20px;">
+  
+  ## Hoe zie je jouw rol in de opleiding?
+
+In mijn opleiding wil ik mijn passies integreren en anderen inspireren. Ik geloof in dialoog, empathie en samenwerking om zowel mezelf als anderen te begrijpen en respecteren.
+
+</div>
 
 </details>
 
