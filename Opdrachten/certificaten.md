@@ -75,6 +75,10 @@
 <details>
 <summary>individuele certificaten</summary>
 
+  
+[English certificate C1-Advanced English](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13329874/English-certificate_C1-Advanced-English-Level_aaron-froidmont.pdf.1.pdf)
+
+
 
 [engels](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13328765/doc.2.pdf)
 
