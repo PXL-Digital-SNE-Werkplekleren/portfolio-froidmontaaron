@@ -3,6 +3,8 @@
 <details>
 <summary>geverifieerde professionele certificaten van IBM </summary>
 
+- https://www.ibm.com/training/badge/data-analyst-professional-certificate
+
 [IBM nr 1](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13328761/Coursera.X8HD9K98DMB6.pdf)
 
 
