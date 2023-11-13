@@ -99,10 +99,18 @@
 
 
 <details>
-<summary>deel certificaten</summary>
+<summary>tryhackme certificaten</summary>
+
+[web fundamentals certificaat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ADYYMZEOB4.png)
 
 
+[jr penetration tester certificaat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AVC9WYAXL4.png)
 
+
+[intro to cyber cecurity certificaat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RAVM42RHVU.png)
+
+
+[pre security certificaat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EDKMFWZE57.png)
 
 
 </details>
