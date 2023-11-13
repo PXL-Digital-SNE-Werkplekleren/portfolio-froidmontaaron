@@ -6,24 +6,28 @@
 [IBM nr 1](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13328761/Coursera.X8HD9K98DMB6.pdf)
 
 
-
 [IBM nr 2](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13328762/Coursera.W3WFXJM35HQ3.pdf)
-
 
 
 [IBM nr 3](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13328763/Coursera.FSAZCUWJ5U3X.pdf)
 
 
-[IBM nr 6]
-
+[IBM nr 4](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13330082/Coursera.VGDY4HSQ8SVN.pdf)
 
 
 [IBM nr 5](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13329725/Coursera.XGK9BGELAXC7.pdf)
 
 
-
 [IBM nr 6](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13329726/Coursera.AWNN5UE3JWFR.pdf)
 
+
+[IBM nr 7](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13330186/Coursera.3D7SAXT6JHBE.pdf)
+
+
+[IBM nr 8](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13330355/Coursera.R94Y565CD67H.pdf)
+
+
+[IBM professionel Cybersecurity Analyst](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13330356/Coursera.S9ULC5KPTNBD.pdf)
 
 ---
 
@@ -114,3 +118,37 @@
 
 
 </details>
+
+
+
+<details>
+<summary>toekomstige certificaten</summary>
+
+
+https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/
+
+
+https://www.offsec.com/courses/pen-200/
+
+
+https://www.isc2.org/Certifications/CCSP
+
+
+https://www.isaca.org/credentialing/cism?cid=sem_2002363&Appeal=sem
+
+
+https://www.isc2.org/Certifications/CISSP
+
+
+https://www.giac.org/certifications/security-essentials-gsec/
+
+
+https://www.comptia.org/landing/securityplus/index.html
+
+
+https://www.coursera.org/
+
+</details>
+
+
+
