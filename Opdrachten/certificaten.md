@@ -1,5 +1,9 @@
 # certificaten
 
+
+![Screenshot 2023-11-13 041352](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/e761a2eb-b896-43dc-a113-b338a702006a)
+
+
 <details>
 <summary>geverifieerde professionele certificaten van IBM </summary>
 
