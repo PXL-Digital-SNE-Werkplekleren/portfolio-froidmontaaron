@@ -105,6 +105,7 @@ Algemeen werker bij Evapco (07-2015 tot 08-2015)
 ----
 - [link naar tryhackme portfolio](https://tryhackme.com/p/brokenleviathan )
 - [link naar wix portfolio](https://aaronfroidmont.wixsite.com/house-of-sin)
+- [link naar linkedin profiel](www.linkedin.com/in/aaron-froidmont-88bb26235)
   
 
  ![tryhackme](https://tryhackme-badges.s3.amazonaws.com/brokenleviathan.png)
