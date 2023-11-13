@@ -110,11 +110,6 @@ Algemeen werker bij Evapco (07-2015 tot 08-2015)
 
  ![tryhackme](https://tryhackme-badges.s3.amazonaws.com/brokenleviathan.png)
 
-#### Github Stats
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=froidmontaaron&count_private=true&show_icons=true&hide=contribs)
-
-
-
 
 >Dit is een overzicht van wie ik ben, mijn achtergrond, en mijn interesses. Mijn toekomstige doelen omvatten het werken als een cyberexpert bij Defensie en het blijven ontwikkelen van mijn vaardigheden op het gebied van IT en cyberbeveiliging. Ik heb een duidelijk stappenplan voor de komende 10 jaar om deze doelen te bereiken. Ik ben vastbesloten om mijn ambities waar te maken en een impact te hebben in mijn gekozen carrièrepad.
 
