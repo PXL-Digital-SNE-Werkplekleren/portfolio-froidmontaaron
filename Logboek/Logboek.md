@@ -1,5 +1,8 @@
 # Logboek werkplekleren
 
+https://learn.microsoft.com/en-us/training/
+
+https://www.linkedin.com/learning/
 
 
 ## Logboek werkplekleren
