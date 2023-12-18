@@ -163,6 +163,12 @@ write memory
 
 </details>
 
+<details>
+<summary>opdracht gastseminarie "hacking" presenteren </summary>
+[hacking.pptx.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13702585/hacking.pptx.pdf)
+
+</details>
+
 </details>
 
 ***
