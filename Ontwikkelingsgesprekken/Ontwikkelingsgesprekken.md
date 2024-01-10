@@ -9,7 +9,7 @@ Ik heb gekozen voor de opleiding "Systemen en Netwerken" vanwege mijn brede scal
 Ik zie het beroep van een afgestudeerde in "Systemen en Netwerken" als iemand die professionele netwerkinfrastructuur installeert, configureert en test. Daarnaast zal ik bezig zijn met het onderhouden van besturingssystemen, applicaties en netwerkservices, en het automatiseren van repetitieve taken. Het herkennen en aanpakken van veiligheidsrisico's zal een integraal onderdeel zijn, evenals het ondersteunen van gebruikers en efficiënt communiceren en rapporteren over geleverd werk. Als levenslang lerende IT-professional zal ik ook mijn deskundigheidsniveau onderhouden en zelfkritisch zijn.
 
 ## Competenties systemen en netwerken:
-###Installeren:
+### Installeren:
 
 Professionele netwerkinfrastructuur installeren, configureren en testen.
 Clients, servers en randapparatuur installeren, configureren en testen.
