@@ -191,3 +191,110 @@ write memory
 ![ezgif com-video-to-gif](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/dee269b5-7bfb-4674-92ea-2017640211db)
   
 </details>
+
+### certificaten
+
+![Screenshot 2023-11-12 183015](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/0d62e806-4f38-40be-a9d1-6f382244f525)
+
+
+
+![Screenshot 2023-11-12 174659](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/ab7ae9ff-dab8-4fe1-92fa-31e4451324e6)
+
+
+
+![Screenshot 2023-11-12 174102](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/878a05ea-8588-4102-b87c-df5f05834ab7)
+
+
+
+![Screenshot 2023-11-12 172349](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/bde5e5e3-1c4c-4f32-aadb-3e589f6b7e60)
+
+
+
+![Screenshot 2023-11-12 165825](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/d705e288-9066-430d-9794-59731131d1e0)
+
+
+
+![Screenshot 2023-11-12 184042](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/377d46c9-90c6-4e78-8f57-f7bea71d39f3)
+
+
+
+</details>
+
+
+
+
+<details>
+<summary>individuele certificaten</summary>
+
+  
+[English certificate C1-Advanced English](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13329874/English-certificate_C1-Advanced-English-Level_aaron-froidmont.pdf.1.pdf)
+
+
+
+[Diploma in Cyber Security](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13328765/doc.2.pdf)
+
+
+
+[cisco Ethical Hacker](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13328816/Ethical_Hacker_Badge20231112-29-4gocjk.pdf)
+
+
+
+[microsoft certificaat](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13328764/Coursera.HV84GCDS5F2S.pdf)
+
+
+
+[google cyber security certificaat](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/13328767/Coursera_33BULV2ZZBEC.1.pdf)
+
+</details>
+
+
+
+<details>
+<summary>tryhackme certificaten</summary>
+
+[web fundamentals certificaat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ADYYMZEOB4.png)
+
+
+[jr penetration tester certificaat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-AVC9WYAXL4.png)
+
+
+[intro to cyber cecurity certificaat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RAVM42RHVU.png)
+
+
+[pre security certificaat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EDKMFWZE57.png)
+
+
+</details>
+
+
+
+<details>
+<summary>toekomstige certificaten</summary>
+
+
+https://www.eccouncil.org/train-certify/certified-ethical-hacker-ceh/
+
+
+https://www.offsec.com/courses/pen-200/
+
+
+https://www.isc2.org/Certifications/CCSP
+
+
+https://www.isaca.org/credentialing/cism?cid=sem_2002363&Appeal=sem
+
+
+https://www.isc2.org/Certifications/CISSP
+
+
+https://www.giac.org/certifications/security-essentials-gsec/
+
+
+https://www.comptia.org/landing/securityplus/index.html
+
+
+https://www.coursera.org/
+
+</details>
+
+
