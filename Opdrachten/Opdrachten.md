@@ -188,4 +188,6 @@ write memory
 <details>
 <summary>opdrachten wpl 4</summary>
   
+![ezgif com-video-to-gif](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/dee269b5-7bfb-4674-92ea-2017640211db)
+  
 </details>
