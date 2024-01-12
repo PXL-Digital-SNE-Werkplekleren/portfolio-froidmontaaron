@@ -1,7 +1,5 @@
 # Inleiding
 
-![ezgif com-video-to-gif](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/dee269b5-7bfb-4674-92ea-2017640211db)
-
 >Mijn brede scala aan vaardigheden en ervaringen omvat onder andere militaire dienst, medische kennis, IT-beveiliging, CNC-bewerking, 3D-ontwerp en nog veel meer. Mijn passie voor cyberbeveiliging en IT heeft me ertoe gebracht om mijn vaardigheden voortdurend te ontwikkelen en mijn doel is om in de komende tien jaar een cyberexpert bij Defensie te worden. Dit is een uitdaging die ik met volle toewijding aanga, en mijn stappenplan om dit te bereiken omvat onder andere het behalen van relevante certificeringen, het opdoen van praktijkervaring,
 >het blijven netwerken en samenwerken met professionals in het veld, en het waarborgen van ethisch gedrag.
 >
