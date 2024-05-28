@@ -178,6 +178,9 @@ write memory
 
 [WPL2PresentatieTeam08.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/15476188/WPL2PresentatieTeam08.pdf)
 
+[WPL2PresentatieTeam08.odp](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/15476201/WPL2PresentatieTeam08.odp)
+
+
 Voor Werkplekleren 2 was alles ingedeeld in sprints.
 ![alt text](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/7586c2a0-863a-43ec-bd34-c2ed9b36dcf6)
 
