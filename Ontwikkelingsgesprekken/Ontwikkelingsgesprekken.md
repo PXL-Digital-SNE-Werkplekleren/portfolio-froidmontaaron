@@ -138,7 +138,7 @@ Verbeteren van mijn leiderschapsvaardigheden in een teamomgeving.
 
 
 ## Overzicht ontwikkelingsgesprekken WPL 2
-
+ZIE OPDRACHTEN EN REFLECTIE
 ## Overzicht ontwikkelingsgesprekken WPL 3
 
 ## Overzicht ontwikkelingsgesprekken WPL 4
