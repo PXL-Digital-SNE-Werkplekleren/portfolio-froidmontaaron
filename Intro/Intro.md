@@ -13,7 +13,14 @@
 >
 >Met vriendelijke groet,
 >
+
+![image-fotor-20240528225942](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/97d67992-afdf-4ea9-a953-b97ac7940142)
+
 `Aaron Heimdall Ragnarson Froidmont`
+
+
+
+
 ***
 # persoonlijke info
 > [!NOTE]
