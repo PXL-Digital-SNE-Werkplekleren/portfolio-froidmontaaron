@@ -197,6 +197,8 @@ Feedback gemaakte taken</td>
   <summary>WPL2</summary>
   <table>
 
+ ZIE OPDRACHTEN EN REFLECTIE
+
 | Week  | Datum          | Les | Activiteiten |
 |-------|----------------|-----|--------------|
 | Sprint 1 | 14 februari 2024 | Les 1 | Presentatie: Inleiding WPL2<br>Introductie Scrumwerking<br>Uitleg eerste individuele opdrachten (sprint 1) + Hulpvragensysteem<br>Uitleg: Aanmaken accounts AWS & Google<br>Takenlijst - Week 01 (Google Account/AWS account/screenrecorder & editor) |
