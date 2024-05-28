@@ -81,13 +81,12 @@ Algemeen werker bij Evapco (07-2015 tot 08-2015)
 - Analyseren
 - Samenwerken
   
-![Schermafbeelding 2024-05-28 225722](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/667f7fb8-8f0b-4f22-a9fb-738e3a68ea67)
+![Schermafbeelding 2024-05-28 233227](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/c0eab442-d2fb-448d-a67c-762ebf43281e)
 
 ----
 ### **persoonlijke waarden:**
 
-
-![Schermafbeelding 2024-05-28 225836](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/fd53a86b-c576-4915-b791-85f5f93d50bd)
+![Schermafbeelding 2024-05-28 233329](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/6e6e235d-5977-4bba-a521-3906f7924fc1)
 
 ----
 ### **Attesten:**
@@ -101,7 +100,7 @@ Algemeen werker bij Evapco (07-2015 tot 08-2015)
 ----
 ### **Talen:**
 
-![Schermafbeelding 2024-05-28 225759](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/b231f675-1969-41fe-81ac-c65d12c39870)
+![Schermafbeelding 2024-05-28 233255](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/bc22eef7-dd07-4413-9632-7810a1c802c3)
 
 ----
 - [link naar tryhackme portfolio](https://tryhackme.com/p/brokenleviathan )
