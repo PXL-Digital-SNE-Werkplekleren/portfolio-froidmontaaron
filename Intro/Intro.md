@@ -33,7 +33,7 @@ Naam: Aaron Froidmont
 
 Bijnaam: Heimdall Ragnarson
 
-Leeftijd: 25 jaar
+Leeftijd: 26 jaar
 
 Adres: Neremstraat 179, 3700 Tongeren
 
