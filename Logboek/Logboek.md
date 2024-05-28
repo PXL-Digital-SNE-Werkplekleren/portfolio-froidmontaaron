@@ -196,567 +196,69 @@ Feedback gemaakte taken</td>
 <details>
   <summary>WPL2</summary>
   <table>
-    <thead>
-      <tr>
-        <th>Week</th>
-        <th>Datum</th>
-        <th>Les</th>
-        <th>Activiteiten</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td>Sprint 1</td>
-        <td>14 februari 2024</td>
-        <td>Les 1</td>
-        <td>
-          <ul>
-            <li>Presentatie: Inleiding WPL2</li>
-            <li>Introductie Scrumwerking</li>
-            <li>Uitleg eerste individuele opdrachten (sprint 1) + Hulpvragensysteem</li>
-            <li>Uitleg: Aanmaken accounts AWS & Google</li>
-            <li>Takenlijst - Week 01 (Google Account/AWS account/screenrecorder & editor)</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>
-          <ul>
-            <li>Takenlijst - Week 01 - verder afwerken</li>
-            <li>Technische opdrachten</li>
-            <li>Afsluiten en aftekenen</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>15 februari 2024</td>
-        <td>Les 2 (Online)</td>
-        <td>
-          <ul>
-            <li>Takenlijst - Week 01 - verder afwerken</li>
-            <li>Technische opdrachten</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>Week 2</td>
-        <td>21 februari 2024</td>
-        <td>Les 3</td>
-        <td>
-          <ul>
-            <li>Takenlijst - Week 02</li>
-            <li>Vorming groepen</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>
-          <ul>
-            <li>Takenlijst - Week 02 - verder afwerken</li>
-            <li>Finalisering vorming groepen</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>22 februari 2024</td>
-        <td>Les 4 (Online)</td>
-        <td>
-          <ul>
-            <li>Takenlijst - Week 02 - verder afwerken</li>
-            <li>Na goedkeuring groepsvorming --&gt; Invullen Google Formulier</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>Sprint 2</td>
-        <td>28 februari 2024</td>
-        <td>Les 5</td>
-        <td>
-          <ul>
-            <li>Sprintplanning: Voorstelling volledig project, Uitleg doel en werk sprint 2</li>
-            <li>Algemeen overzicht Groepsproject</li>
-            <li>Opgave Sprint 2 - Week 03 & 04</li>
-            <li>Uitleg logboek (opleverdocument) en Trello</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>
-          <ul>
-            <li>Per team: aanmaak Trello scrumbord per team</li>
-            <li>Per team: product backlog maken</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Pauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>
-          <ul>
-            <li>Team kennismaking en reflectie over soft skills (on campus groep)</li>
-            <li>Technische opdrachten</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>
-          <ul>
-            <li>Uitleg PFsense Firewall installatie en configuratie</li>
-            <li>Team kennismaking en reflectie over soft skills (on campus groep)</li>
-            <li>Technische opdrachten (groep on campus vanaf 14u30)</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>29 februari 2024</td>
-        <td>Les 6 (Online)</td>
-        <td>
-          <ul>
-            <li>Welkom (call); daarna daily standups en update trello</li>
-            <li>Team kennismaking en reflectie over soft skills (on campus groep)</li>
-            <li>Technische opdrachten (on campus groep na de team kennismaking / soft skills sessie)</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>Week 4</td>
-        <td>6 maart 2024</td>
-        <td>Les 7</td>
-        <td>
-          <ul>
-            <li>Daily standups</li>
-            <li>Technische opdrachten</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Pauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Technische opdrachten</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Technische opdrachten</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>7 maart 2024</td>
-        <td>Les 8 (Online)</td>
-        <td>
-          <ul>
-            <li>Welkom (call); uitleg sprint review en retrospective</li>
-            <li>Daily standups</li>
-            <li>Technische opdrachten</li>
-            <li>Sprint review en retrospectives</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>Sprint 3</td>
-        <td>13 maart 2024</td>
-        <td>Les 9</td>
-        <td>
-          <ul>
-            <li>Sprintplanning: uitleg sprint 3</li>
-            <li>Opgave Sprint 3 - Week 05 & 06 & 07</li>
-            <li>Uitleg Clockify</li>
-            <li>Daily standups</li>
-            <li>Per team: aanmaak Clockify</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Technische opdrachten</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>14 maart 2024</td>
-        <td>Les 10 (Online)</td>
-        <td>
-          <ul>
-            <li>Daily standups</li>
-            <li>Technische opdrachten</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>Week 6</td>
-        <td>20 maart 2024</td>
-        <td>Les 11</td>
-        <td>
-          <ul>
-            <li>Daily standups</li>
-            <li>Introductie SDG's (groep on campus)</li>
-            <li>Technische opdrachten</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>
-          <ul>
-            <li>Introductie SDG's (groep on campus)</li>
-            <li>Technische opdrachten</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>21 maart 2024</td>
-        <td>Les 12 (Online)</td>
-        <td>
-          <ul>
-            <li>Daily standups</li>
-            <li>Introductie SDG's (groep on campus)</li>
-            <li>Technische opdrachten</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>Week 7</td>
-        <td>27 maart 2024</td>
-        <td>Les 13</td>
-        <td>
-          <ul>
-            <li>Daily standups</li>
-            <li>Infosessie over Handshake Event voor WPL3 van 16 mei</li>
-            <li>Technische opdrachten</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Technische opdrachten</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>28 maart 2024</td>
-        <td>Les 14 (Online)</td>
-        <td>
-          <ul>
-            <li>Sprint review en retrospectives, logboek afwerken</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>Paasvakantie</td>
-        <td></td>
-        <td></td>
-        <td></td>
-      </tr>
-      <tr>
-        <td>Sprint 4</td>
-        <td>17 april 2024</td>
-        <td>Les 15</td>
-        <td>
-          <ul>
-            <li>Sprintplanning: uitleg sprint 4</li>
-            <li>Opgave Sprint 4 - Week 08 & 09 & 10</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>
-          <ul>
-            <li>Technische opdrachten</li>
-            <li>Evaluaties sprint 3</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>18 april 2024</td>
-        <td>Les 16 (Online)</td>
-        <td>
-          <ul>
-            <li>Technische opdrachten</li>
-            <li>Evaluaties sprint 3</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>Week 9</td>
-        <td>24 april 2024</td>
-        <td>Les 17</td>
-        <td>
-          <ul>
-            <li>Daily standups</li>
-            <li>Technische opdrachten</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>
-          <ul>
-            <li>Oplevering Cisco opdracht via een presentatie/demo on campus (planning volgt)</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>25 april 2024</td>
-        <td>Les 18 (Online)</td>
-        <td>
-          <ul>
-            <li>Daily standups</li>
-            <li>Technische opdrachten</li>
-            <li>Oplevering Cisco opdracht via een presentatie/demo on campus (planning volgt)</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>Week 10</td>
-        <td>1 mei 2024</td>
-        <td>Les 19</td>
-        <td>Dag van de Arbeid - Geen les</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Dag van de Arbeid - Geen les</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>2 mei 2024</td>
-        <td>Les 20 (Online)</td>
-        <td>
-          <ul>
-            <li>Sprint review en retrospectives, logboek afwerken</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>Sprint 5</td>
-        <td>8 mei 2024</td>
-        <td>Les 21</td>
-        <td>
-          <ul>
-            <li>Sprintplanning: uitleg sprint 5</li>
-            <li>Evaluaties sprint 4</li>
-            <li>Technische opdrachten mondeling toegelicht. Document volgt later.</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>
-          <ul>
-            <li>Opgave Sprint 5 - Week 11 & 12 & 13</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>9 mei 2024</td>
-        <td>Les 22 (Online)</td>
-        <td>OLH Hemelvaart - Geen les</td>
-      </tr>
-      <tr>
-        <td>Week 12</td>
-        <td>15 mei 2024</td>
-        <td>Les 23</td>
-        <td>
-          <ul>
-            <li>Daily standups</li>
-            <li>Technische opdrachten</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>
-          <ul>
-            <li>Daily standups</li>
-            <li>Jury-presentatie & portfolio</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>16 mei 2024</td>
-        <td>Les 24 (Online)</td>
-        <td>
-          <ul>
-            <li>Technische opdrachten</li>
-            <li>Handshake Event (Verplicht! - PXL-NeXt Binnenstraat - studentenkaart - gepaste kledij - vlotte babbel met minimum 3 bedrijven)</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>Week 13</td>
-        <td>22 mei 2024</td>
-        <td>Les 25</td>
-        <td>
-          <ul>
-            <li>Uitleg richtlijnen eindpresentaties + uurschema eindpresentaties</li>
-            <li>Sprint afwerken</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>
-          <ul>
-            <li>Sprint afwerken en voorbereiding eindpresentaties / portfolio</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td>23 mei 2024</td>
-        <td>Les 26 (Online)</td>
-        <td>
-          <ul>
-            <li>Voorbereiding eindpresentaties in team</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td>Afsluitweek</td>
-        <td>29 mei 2024</td>
-        <td>Les 27</td>
-        <td>
-          <ul>
-            <li>Evaluatie van Sprint 5 - Eindpresentaties</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <td></td>
-        <td></td>
-        <td></td>
-        <td>Lunchpauze</td>
-      </tr>
-    </tbody>
+
+| Week  | Datum          | Les | Activiteiten |
+|-------|----------------|-----|--------------|
+| Sprint 1 | 14 februari 2024 | Les 1 | Presentatie: Inleiding WPL2<br>Introductie Scrumwerking<br>Uitleg eerste individuele opdrachten (sprint 1) + Hulpvragensysteem<br>Uitleg: Aanmaken accounts AWS & Google<br>Takenlijst - Week 01 (Google Account/AWS account/screenrecorder & editor) |
+|        |                |     | Lunchpauze |
+|        |                |     | Takenlijst - Week 01 - verder afwerken<br>Technische opdrachten<br>Afsluiten en aftekenen |
+|        | 15 februari 2024 | Les 2 (Online) | Takenlijst - Week 01 - verder afwerken<br>Technische opdrachten |
+| Week 2 | 21 februari 2024 | Les 3 | Takenlijst - Week 02<br>Vorming groepen |
+|        |                |     | Lunchpauze |
+|        |                |     | Takenlijst - Week 02 - verder afwerken<br>Finalisering vorming groepen |
+|        | 22 februari 2024 | Les 4 (Online) | Takenlijst - Week 02 - verder afwerken<br>Na goedkeuring groepsvorming --> Invullen Google Formulier |
+| Sprint 2 | 28 februari 2024 | Les 5 | Sprintplanning: Voorstelling volledig project, Uitleg doel en werk sprint 2<br>Algemeen overzicht Groepsproject<br>Opgave Sprint 2 - Week 03 & 04<br>Uitleg logboek (opleverdocument) en Trello |
+|        |                |     | - Per team: aanmaak Trello scrumbord per team<br>- Per team: product backlog maken |
+|        |                |     | Pauze |
+|        |                |     | Team kennismaking en reflectie over soft skills (on campus groep)<br>Technische opdrachten |
+|        |                |     | Lunchpauze |
+|        |                |     | Uitleg PFsense Firewall installatie en configuratie<br>Team kennismaking en reflectie over soft skills (on campus groep)<br>Technische opdrachten (groep on campus vanaf 14u30) |
+|        | 29 februari 2024 | Les 6 (Online) | Welkom (call); daarna daily standups en update trello<br>Team kennismaking en reflectie over soft skills (on campus groep)<br>Technische opdrachten (on campus groep na de team kennismaking / soft skills sessie) |
+| Week 4 | 6 maart 2024 | Les 7 | Daily standups<br>Technische opdrachten |
+|        |                |     | Pauze |
+|        |                |     | Technische opdrachten |
+|        |                |     | Lunchpauze |
+|        |                |     | Technische opdrachten |
+|        | 7 maart 2024 | Les 8 (Online) | Welkom (call); uitleg sprint review en retrospective<br>Daily standups<br>Technische opdrachten<br>Sprint review en retrospectives |
+| Sprint 3 | 13 maart 2024 | Les 9 | Sprintplanning: uitleg sprint 3<br>Opgave Sprint 3 - Week 05 & 06 & 07<br>Uitleg Clockify<br>Daily standups<br>- Per team: aanmaak Clockify |
+|        |                |     | Lunchpauze |
+|        |                |     | Technische opdrachten |
+|        | 14 maart 2024 | Les 10 (Online) | Daily standups<br>Technische opdrachten |
+| Week 6 | 20 maart 2024 | Les 11 | Daily standups<br>Introductie SDG's (groep on campus)<br>Technische opdrachten |
+|        |                |     | Lunchpauze |
+|        |                |     | Introductie SDG's (groep on campus)<br>Technische opdrachten |
+|        | 21 maart 2024 | Les 12 (Online) | Daily standups<br>Introductie SDG's (groep on campus)<br>Technische opdrachten |
+| Week 7 | 27 maart 2024 | Les 13 | Daily standups<br>Infosessie over Handshake Event voor WPL3 van 16 mei<br>Technische opdrachten |
+|        |                |     | Lunchpauze |
+|        |                |     | Technische opdrachten |
+|        | 28 maart 2024 | Les 14 (Online) | Sprint review en retrospectives, logboek afwerken |
+| Paasvakantie | | | |
+| Sprint 4 | 17 april 2024 | Les 15 | Sprintplanning: uitleg sprint 4<br>Opgave Sprint 4 - Week 08 & 09 & 10 |
+|        |                |     | Lunchpauze |
+|        |                |     | Technische opdrachten<br>Evaluaties sprint 3 |
+|        | 18 april 2024 | Les 16 (Online) | Technische opdrachten<br>Evaluaties sprint 3 |
+| Week 9 | 24 april 2024 | Les 17 | Daily standups<br>Technische opdrachten |
+|        |                |     | Lunchpauze |
+|        |                |     | Oplevering Cisco opdracht via een presentatie/demo on campus (planning volgt) |
+|        | 25 april 2024 | Les 18 (Online) | Daily standups<br>Technische opdrachten<br>Oplevering Cisco opdracht via een presentatie/demo on campus (planning volgt) |
+| Week 10 | 1 mei 2024 | Les 19 | Dag van de Arbeid - Geen les |
+|        |                |     | Lunchpauze |
+|        |                |     | Dag van de Arbeid - Geen les |
+|        | 2 mei 2024 | Les 20 (Online) | Sprint review en retrospectives, logboek afwerken |
+| Sprint 5 | 8 mei 2024 | Les 21 | Sprintplanning: uitleg sprint 5<br>Evaluaties sprint 4<br>Technische opdrachten mondeling toegelicht. Document volgt later. |
+|        |                |     | Lunchpauze |
+|        |                |     | Opgave Sprint 5 - Week 11 & 12 & 13 |
+|        | 9 mei 2024 | Les 22 (Online) | OLH Hemelvaart - Geen les |
+| Week 12 | 15 mei 2024 | Les 23 | Daily standups<br>Technische opdrachten |
+|        |                |     | Lunchpauze |
+|        |                |     | Daily standups<br>Jury-presentatie & portfolio |
+|        | 16 mei 2024 | Les 24 (Online) | Technische opdrachten<br>Handshake Event (Verplicht! - PXL-NeXt Binnenstraat - studentenkaart - gepaste kledij - vlotte babbel met minimum 3 bedrijven) |
+| Week 13 | 22 mei 2024 | Les 25 | Uitleg richtlijnen eindpresentaties + uurschema eindpresentaties<br>Sprint afwerken |
+|        |                |     | Lunchpauze |
+|        |                |     | Sprint afwerken en voorbereiding eindpresentaties / portfolio |
+|        | 23 mei 2024 | Les 26 (Online) | Voorbereiding eindpresentaties in team |
+| Afsluitweek | 29 mei 2024 | Les 27 | Evaluatie van Sprint 5 - Eindpresentaties |
+|        |                |     | Lunchpauze |
   </table>
 </details>
 
