@@ -177,7 +177,7 @@ write memory
 <summary>opdrachten wpl 2</summary>
 
 Voor Werkplekleren 2 was alles ingedeeld in sprints.
-![alt text](wpl2-tijdlijn.png)
+![alt text](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/7586c2a0-863a-43ec-bd34-c2ed9b36dcf6)
 
 ### Sprint 1 - Week 1 & 2
 Sprint 1, waar we 2 weken de tijd voor kregen bestond uit een individuele opdracht in Amazon Web Service (AWS)
@@ -385,7 +385,7 @@ Zorg dat de website bereikbaar is
     - via een DNS naam
     - over SSL/TLS
 
-Download [hier](2023-2024_SNE_WPL2_Team08_Oplevering-compressed.pdf) het volledige opleverdocument.
+Download  [2023-2024_SNE_WPL2_Team08_Oplevering-compressed.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/15474914/2023-2024_SNE_WPL2_Team08_Oplevering-compressed.pdf)het volledige opleverdocument.
 
 </details>
 
