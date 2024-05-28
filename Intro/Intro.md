@@ -73,17 +73,14 @@ Algemeen werker bij Evapco (07-2015 tot 08-2015)
 - Kritisch denken
 - Analyseren
 - Samenwerken
+  
+![Schermafbeelding 2024-05-28 225722](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/667f7fb8-8f0b-4f22-a9fb-738e3a68ea67)
 
 ----
 ### **persoonlijke waarden:**
 
-1. moed
-2. integriteit
-3. loyaliteit
-4. inzet
-5. respect
-6. eergevoel
-7. plichtsbesef
+
+![Schermafbeelding 2024-05-28 225836](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/fd53a86b-c576-4915-b791-85f5f93d50bd)
 
 ----
 ### **Attesten:**
@@ -97,11 +94,8 @@ Algemeen werker bij Evapco (07-2015 tot 08-2015)
 ----
 ### **Talen:**
 
-- Nederlands niveau C1
+![Schermafbeelding 2024-05-28 225759](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/b231f675-1969-41fe-81ac-c65d12c39870)
 
-- Engels niveau C1
-
-- Frans niveau B1
 ----
 - [link naar tryhackme portfolio](https://tryhackme.com/p/brokenleviathan )
 - [link naar wix portfolio](https://aaronfroidmont.wixsite.com/house-of-sin)
