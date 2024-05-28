@@ -170,6 +170,20 @@ In mijn opleiding zou ik waarschijnlijk in aanraking komen met verschillende dis
 
 <summary>reflectie WPL 2</summary>
 
+Technische Skills:​
+--
+Ik heb mijn programmeervaardigheden verder ontwikkeld, met name in het werken met html en ook met verdere intigraties van os systemen​
+
+Proces:​
+--
+Ik heb een actieve rol gespeeld in het team, door regelmatige updates te geven tijdens de stand-up meetings en door mijn vaardigheden te delen met mijn collega's.​
+
+Soft Skills:​
+--
+Deze periode heeft mijn vermogen om onder druk te werken versterkt, en ik heb ook geleerd hoe ik effectiever kan werken binnen het team.​
+
+​
+
 </details>
 
 ---
