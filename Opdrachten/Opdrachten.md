@@ -410,6 +410,9 @@ Download  [hier](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froi
 
 ### certificaten
 
+> [!NOTE]
+> volgende informatie is niet meer up-to-date en kan nog veranderen.
+
 ![Screenshot 2023-11-12 183015](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/0d62e806-4f38-40be-a9d1-6f382244f525)
 
 
