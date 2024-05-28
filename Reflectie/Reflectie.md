@@ -172,17 +172,21 @@ In mijn opleiding zou ik waarschijnlijk in aanraking komen met verschillende dis
 
 Technische Skills:​
 --
-Ik heb mijn programmeervaardigheden verder ontwikkeld, met name in het werken met html en ook met verdere intigraties van os systemen​
+- Ik heb mijn programmeervaardigheden verder ontwikkeld, met name in het werken met html en ook met verdere intigraties van os systemen​
+- Werken aan Pi-hole was een beetje als een ontdekkingsreis door het netwerklandschap. Het voelde geweldig om te begrijpen hoe advertentieblokkering niet alleen mijn surfervaring verbetert, maar ook de prestaties van mijn hele netwerk kan boosten.
+- Met Altaro VM Backup leerde ik hoe cruciaal het is om je data veilig te stellen. Het was geruststellend om te weten dat ik de controle had over het back-up- en herstelproces van mijn virtuele machines.
 
 Proces:​
 --
-Ik heb een actieve rol gespeeld in het team, door regelmatige updates te geven tijdens de stand-up meetings en door mijn vaardigheden te delen met mijn collega's.​
-
+- Ik heb een actieve rol gespeeld in het team, door regelmatige updates te geven tijdens de stand-up meetings en door mijn vaardigheden te delen met mijn collega's.​
+- Ik voel me echt gegroeid in mijn technische vaardigheden. Door actief bezig te zijn met het configureren en onderhouden van diverse systemen, ben ik veel zelfverzekerder geworden in mijn kunnen. Het is echt bevredigend om te zien hoe ver ik gekomen ben.
+- Het oplossen van problemen tijdens deze projecten heeft mijn zelfvertrouwen een flinke boost gegeven. Ik merk dat ik nu veel beter om kan gaan met complexe technische uitdagingen.
+  
 Soft Skills:​
 --
-Deze periode heeft mijn vermogen om onder druk te werken versterkt, en ik heb ook geleerd hoe ik effectiever kan werken binnen het team.​
-
-​
+- Deze periode heeft mijn vermogen om onder druk te werken versterkt, en ik heb ook geleerd hoe ik effectiever kan werken binnen het team.​
+- Wat ik echt waardeerde tijdens deze periode was de samenwerking binnen het team. We hebben zoveel van elkaar geleerd door open en eerlijk te communiceren. Het ook al ging niet alles even goed was het echt een gedeelde ervaring waar ik veel aan heb gehad.
+​- Ook heb ik geleerd hoe belangrijk het is om goed te plannen en prioriteiten te stellen. Het hielp me om rustig te blijven, zelfs als de druk hoog was, en efficiënt te blijven werken aan onze doelen.
 
 </details>
 
