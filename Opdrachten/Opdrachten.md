@@ -385,7 +385,7 @@ Zorg dat de website bereikbaar is
     - via een DNS naam
     - over SSL/TLS
 
-Download  [2023-2024_SNE_WPL2_Team08_Oplevering-compressed.pdf](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/15474914/2023-2024_SNE_WPL2_Team08_Oplevering-compressed.pdf)het volledige opleverdocument.
+Download  [hier](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/15474914/2023-2024_SNE_WPL2_Team08_Oplevering-compressed.pdf)het volledige opleverdocument.
 
 </details>
 
