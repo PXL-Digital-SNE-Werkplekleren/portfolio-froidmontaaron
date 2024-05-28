@@ -48,11 +48,9 @@ Opleiding:graduaat systeem & netwerken
 
 Behaalde diploma's in Elektrische Installaties van de 1ste graad tot de 3de graad.
 
-Ambulancier bij Defensie (09-2019 tot 08-2022): Verder opgeleid als EMT-B met medische kennis en polytrauma training.
+EMT bij Defensie (09-2019 tot 08-2022): Verder opgeleid als EMT met medische kennis en polytrauma training.
 
-Soldaat bij Defensie (10-2017 tot 02-2018)
-
-Algemeen arbeider bij T-interim (05-2017 tot 07-2017)
+Soldaat bij Defensie
 
 Interim bij Evapco (08-2016 tot 09-2016)
 
@@ -109,7 +107,7 @@ Algemeen werker bij Evapco (07-2015 tot 08-2015)
   
 [CV](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/15475228/CV__Aaron_Froidmont.pdf)
 
- ![tryhackme](https://tryhackme-badges.s3.amazonaws.com/brokenleviathan.png)
+![tryhackme](https://tryhackme-badges.s3.amazonaws.com/brokenleviathan.png)
 
 
 >Dit is een overzicht van wie ik ben, mijn achtergrond, en mijn interesses. Mijn toekomstige doelen omvatten het werken als een cyberexpert bij Defensie en het blijven ontwikkelen van mijn vaardigheden op het gebied van IT en cyberbeveiliging. Ik heb een duidelijk stappenplan voor de komende 10 jaar om deze doelen te bereiken. Ik ben vastbesloten om mijn ambities waar te maken en een impact te hebben in mijn gekozen carrièrepad.
