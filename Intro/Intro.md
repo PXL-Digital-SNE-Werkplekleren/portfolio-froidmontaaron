@@ -259,9 +259,10 @@ https://www.coursera.org/
 - [link naar wix portfolio](https://aaronfroidmont.wixsite.com/house-of-sin)
 - [link naar linkedin profiel](www.linkedin.com/in/aaron-froidmont-88bb26235)
   
-[CV](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/files/15475228/CV__Aaron_Froidmont.pdf)
+[CV__Aaron.H.R.Froidmont](https://github.com/user-attachments/files/16857735/CV__Aaron.H.R.Froidmont.1.pdf)
 
 ![tryhackme](https://tryhackme-badges.s3.amazonaws.com/brokenleviathan.png)
+
 
 
 >Dit is een overzicht van wie ik ben, mijn achtergrond, en mijn interesses. Mijn toekomstige doelen omvatten het werken als een cyberexpert bij Defensie en het blijven ontwikkelen van mijn vaardigheden op het gebied van IT en cyberbeveiliging. Ik heb een duidelijk stappenplan voor de komende 10 jaar om deze doelen te bereiken. Ik ben vastbesloten om mijn ambities waar te maken en een impact te hebben in mijn gekozen carrièrepad.
