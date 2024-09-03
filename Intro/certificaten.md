@@ -3,6 +3,8 @@
 
 ![Screenshot 2023-11-13 041352](https://github.com/PXL-Digital-SNE-Werkplekleren/portfolio-froidmontaaron/assets/116820758/e761a2eb-b896-43dc-a113-b338a702006a)
 
+![Schermafbeelding 2024-09-04 000631](https://github.com/user-attachments/assets/bf0d7978-41c7-4276-826e-9411748f242b)
+
 
 <details>
 <summary>geverifieerde professionele certificaten van IBM </summary>
